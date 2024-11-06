@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paving And Fencing Quote", "Paving And Fencing Quote.csproj", "{04BFFDDD-3376-4A01-BEE3-45C3E5287F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BFFDDD-3376-4A01-BEE3-45C3E5287F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BFFDDD-3376-4A01-BEE3-45C3E5287F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BFFDDD-3376-4A01-BEE3-45C3E5287F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BFFDDD-3376-4A01-BEE3-45C3E5287F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0116EEE-F899-4F6C-B484-7752B1D07224}
+	EndGlobalSection
+EndGlobal
